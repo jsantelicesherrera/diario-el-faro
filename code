@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>El Faro - Noticias locales</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>El Faro</h1>
+		<img src="logo.png" alt="Logo del periódico El Faro">
+		<nav>
+			<ul>
+				<li><a href="#">Inicio</a></li>
+				<li><a href="#">Deporte</a></li>
+				<li><a href="#">Negocios</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Noticias generales</h2>
+			<table>
+				<tr>
+					<td>
+						<a href="#">
+							<img src="noticia1.jpg" alt="Noticia 1">
+							<h3>Titulo de la noticia 1</h3>
+							<p>Categoría de la noticia 1</p>
+							<p>Texto de la noticia 1</p>
+						</a>
+					</td>
+					<td>
+						<a href="#">
+							<img src="noticia2.jpg" alt="Noticia 2">
+							<h3>Titulo de la noticia 2</h3>
+							<p>Categoría de la noticia 2</p>
+							<p>Texto de la noticia 2</p>
+						</a>
+					</td>
+					<td>
+						<a href="#">
+							<img src="noticia3.jpg" alt="Noticia 3">
+							<h3>Titulo de la noticia 3</h3>
+							<p>Categoría de la noticia 3</p>
+							<p>Texto de la noticia 3</p>
+						</a>
+					</td>
+				</tr>
+			</table>
+			<video controls>
+				<source src="video.mp4" type="video/mp4">
+				Tu navegador no soporta videos HTML5.
+			</video>
+			<audio controls>
+				<source src="audio.mp3" type="audio/mpeg">
+				Tu navegador no soporta audio HTML5.
+			</audio>
+		</section>
+		<section>
+			<h2>Noticias de deportes</h2>
+			<table>
+				<tr>
+					<td>
+						<a href="#">
+							<img src="deporte1.jpg" alt="Noticia de deportes 1">
+							<h3>Titulo de la noticia de deportes 1</h3>
+							<p>Categoría de la noticia de deportes 1</p>
+							<p>Texto de la noticia de deportes 1</p>
+						</a>
+					</td>
+					<td>
+						<a href="#">
+							<img src="deporte2.jpg" alt="Noticia de deportes 2">
+							<h3>Titulo de la noticia de deportes 2</h3>
+							<p>Categoría de la noticia de deportes 2</p>
+							<p>Texto de la noticia de deportes 2</p>
+						</a>
+					</td>
+					<td
